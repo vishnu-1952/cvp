@@ -46,7 +46,7 @@ body {
   font-weight: 400;
   line-height: 1.7;
   color: #fff;
-  background: #000;
+  background: #fff;
 }
 
 .heading-primary {
@@ -177,7 +177,7 @@ body {
 }
 
 .section-plans {
-  background-color: #000;
+  background-color: #fff;
   padding: 4rem 0 4rem 0;
 }
 
@@ -187,7 +187,8 @@ body {
   -moz-perspective: 150rem;
   position: relative;
   height: 52rem;
-  background-color: #000;
+  background-color: #fff;
+  border: none;
 }
 
 .card__side {
